@@ -44,8 +44,12 @@ Bài Word tổng hợp
 1.	Tổng hợp các công cụ, Công Cụ AI đã dùng.
 a.	Chat GPT
 -	Nhờ nó tạo ra 1 bảng “timeline” sử dụng những con AI nào tốt nhất cho các phần của bài làm 
-o	Ví dụ 1 prompt: “bạn là 1 người có nhiều năm kinh nghiệm hiểu biết rõ về thế giới AI hiện giờ, nhiệm vụ của bạn là hãy thiết kế 1 bảng hướng dẫn tôi nên dùng các AI nào để tôi có thể sử dụng tối đa AI cho bài làm này của tôi giúp tôi có được kết quả tốt nhất. ví dụ dùng AI nào để Viết code, tạo trang web, sửa đổi, thiết kế.... với những con AI tốt nhất hiện tại cho từng mảng”
+o	Ví dụ 1 prompt:
+
+“bạn là 1 người có nhiều năm kinh nghiệm hiểu biết rõ về thế giới AI hiện giờ, nhiệm vụ của bạn là hãy thiết kế 1 bảng hướng dẫn tôi nên dùng các AI nào để tôi có thể sử dụng tối đa AI cho bài làm này của tôi giúp tôi có được kết quả tốt nhất. ví dụ dùng AI nào để Viết code, tạo trang web, sửa đổi, thiết kế.... với những con AI tốt nhất hiện tại cho từng mảng”
+
 o	Kết quả là:
+
 Dựa trên đề bài của bạn về “Ứng dụng trí tuệ nhân tạo trong thiết kế website portfolio cá nhân”, mục tiêu không chỉ là “làm web chạy được”, mà còn phải:
 •	Có UI/UX đẹp
 •	Có dấu ấn cá nhân
@@ -312,7 +316,8 @@ vì:
 ✅ Điểm UI/UX
 ✅ Điểm cộng animation/storytelling
 -	Tôi cũng dùng Chat GPT để đẻ tạo hình ảnh 
--	Ví dụ prompt: 
+-	Ví dụ prompt:
+
 o	Tạo hình ảnh mockup sản phẩm công nghệ hiện đại, phong cách tối giản nhưng tinh tế. 
 o	Sản phẩm được đặt trên nền 3D với ánh sáng tự nhiên, phản chiếu nhẹ để tạo cảm giác chân thực. 
 o	Yêu cầu:
@@ -323,11 +328,14 @@ o	Màu trung tính: trắng, xám, xanh nhạt
 o	Hiệu ứng: ánh sáng phản chiếu kim loại, bóng đổ mềm, chi tiết sắc nét.
 o	Có thể thêm các yếu tố minh họa như icon AI, mạng lưới dữ liệu, hoặc đường nét ánh sáng để nhấn mạnh tính công nghệ.
 o	Phong cách: chuyên nghiệp, phù hợp để trình bày trong portfolio hoặc pitch deck.
--	Kết quả:  
+-	Kết quả: ảnh sản phẩm bên dự án số 2
 b.	Copilot
 -	Thường được dùng để gợi ý cấu trúc prompt sau đó chỉnh sửa prompt đó
--	Ví dụ: cho tôi 1 prompt dùng để tạo hình ảnh mockup cho 1 sản phẩm công nghệ
--	Kết quả: 
+-	Ví dụ:
+  
+-	cho tôi 1 prompt dùng để tạo hình ảnh mockup cho 1 sản phẩm công nghệ
+-	Kết quả:
+
 o	Tạo hình ảnh mockup sản phẩm công nghệ hiện đại, phong cách tối giản nhưng tinh tế. 
 o	Sản phẩm được đặt trên nền 3D với ánh sáng tự nhiên, phản chiếu nhẹ để tạo cảm giác chân thực. 
 o	Yêu cầu:
@@ -337,7 +345,9 @@ o	Nền: màu trung tính (trắng, xám, xanh nhạt) hoặc không gian công 
 o	Hiệu ứng: ánh sáng phản chiếu kim loại, bóng đổ mềm, chi tiết sắc nét.
 o	Có thể thêm các yếu tố minh họa như icon AI, mạng lưới dữ liệu, hoặc đường nét ánh sáng để nhấn mạnh tính công nghệ.
 o	Phong cách: chuyên nghiệp, phù hợp để trình bày trong portfolio hoặc pitch deck.
--	Sau khi chỉnh sửa:
+
+-	Sau khi chỉnh sửa prompt:
+
 o	Tạo hình ảnh mockup sản phẩm công nghệ hiện đại, phong cách tối giản nhưng tinh tế. 
 o	Sản phẩm được đặt trên nền 3D với ánh sáng tự nhiên, phản chiếu nhẹ để tạo cảm giác chân thực. 
 o	Yêu cầu:
@@ -348,8 +358,11 @@ o	Màu trung tính: trắng, xám, xanh nhạt
 o	Hiệu ứng: ánh sáng phản chiếu kim loại, bóng đổ mềm, chi tiết sắc nét.
 o	Có thể thêm các yếu tố minh họa như icon AI, mạng lưới dữ liệu, hoặc đường nét ánh sáng để nhấn mạnh tính công nghệ.
 o	Phong cách: chuyên nghiệp, phù hợp để trình bày trong portfolio hoặc pitch deck.
--	Tôi dùng Copilot để tạo prompt cho các công cụ khác: 
-o	Ví dụ prompt: 
+
+-	Tôi dùng Copilot để tạo prompt cho các công cụ khác:
+
+-	Ví dụ prompt:
+
 bây giờ tôi muốn 1 cấu trúc prompt tạo ra được 1 trang web portfolio đẹp, có hiệu ứng 3D, và đặc biệt là có nét riêng so với các AI khác là trang web đó có hiệu ứng phù hợp với đồi núi và ruộng bậc thang đầy đủ các phần:
 ●	Phần giới thiệu (Hero): Họ tên, vai trò nghề nghiệp, câu mô tả ngắn mang dấu ấn cá nhân;
 ●	Phần giới thiệu bản thân (About): Thông tin cá nhân, định hướng nghề nghiệp, kỹ năng chính;
@@ -395,7 +408,9 @@ Phong cách tổng thể:
 - Hiệu ứng 3D: parallax, chuyển động mượt, cảm giác chiều sâu.
 - Thiết kế độc đáo, khác biệt so với các portfolio AI khác, 
   mang đậm dấu ấn thiên nhiên Việt Nam.
+  
 KHI MÀ CÓ ĐƯỢC PROMPT RỒI THÌ PHẢI XEM QUA VÀ SỬA LẠI NHỮNG THÔNG TIN BỊ THIẾU SÓT. ĐÂY LÀ ĐOẠN PROMPT CỦA TÔI SAU KHI SỬA.
+
 Tạo một trang web portfolio hiện đại, phong cách 3D, với hiệu ứng chuyển động mượt mà. thêm các hiệu ứng hoặc hình ảnh cho background từng phần để khi người xem kéo xuống sẽ có sự liền mạch giữa các phần
 Chủ đề chính: đồi núi và ruộng bậc thang, mang cảm giác thiên nhiên hùng vĩ, gần gũi, 
 nhưng vẫn chuyên nghiệp và sáng tạo. 
@@ -432,13 +447,20 @@ Phong cách tổng thể:
 - Hiệu ứng 3D: parallax, chuyển động mượt mà từ các thành phần đến các chi tiết nhỏ, cảm giác chiều sâu.
 - Thiết kế độc đáo, khác biệt so với các portfolio AI khác, 
   mang đậm dấu ấn thiên nhiên Việt Nam.
+  
 c.	Figma AI/ Lovable/ Canva AI/ Github Copilot
+
 -	Dùng để tạo thiết kế và chỉnh sửa trang web là chính;
+
 -	Ví dụ prompt lấy và đã chỉnh sửa từ Copilot:
 -	Kết quả là:
+
 o	Lovable: [https://terraced-dreams-portfolio.lovable.app/](https://terraced-dreams-portfolio.lovable.app/)
+
 o	Figma AI:  [https://duo-stunt-35831571.figma.site/](https://duo-stunt-35831571.figma.site/)
+
 o	Canva AI: [https://www.canva.com/ai/code/thread/73d497a4-be65-4345-a295-d79570d259b6](https://thanh-phamg.my.canva.site/)
+
 2.	Tóm tắt quá trình làm việc
 -	nhờ Chat gpt tìm kiếm các Công cụ AI
 -	bắt đầu dùng công cụ Copilot của Microsoft viết prompt tạo trang web hộ
